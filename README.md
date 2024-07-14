@@ -15,3 +15,10 @@ Data Structures and Algorithms (DSA) form the foundation of computer science and
 - Dynamic Programming: Method for solving complex problems by breaking them down into simpler subproblems.
 - Greedy Algorithms: Making the optimal choice at each step.
 - Backtracking: Technique for solving recursive problems by trying to build a solution incrementally.
+
+## Learning with Striver
+- Striver offers structured guides and curated question lists to help you understand and practice each topic. Following Striver's plan, you will:
+
+- Learn Concepts: Study detailed explanations and examples.
+- Solve Problems: Practice a variety of questions to reinforce your understanding.
+- Revise Regularly: Ensure you revisit topics periodically to retain what you've learned.
