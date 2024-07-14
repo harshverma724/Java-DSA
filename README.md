@@ -3,7 +3,7 @@
 
 Data Structures and Algorithms (DSA) form the foundation of computer science and programming. Data Structures are ways to store and organize data, while Algorithms are step-by-step procedures or formulas for solving problems.
 
-Key Topics in DSA
+## Key Topics in DSA
 
 - Arrays and Strings: Basic building blocks for storing sequences of elements.
 - Linked Lists: Dynamic data structure to store elements linearly.
